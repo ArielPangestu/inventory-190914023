@@ -7,8 +7,8 @@ use Illuminate\Http\Request;
 class StudentController extends Controller
 {
     //Latihan Web 2
-    private $code = "160613001";
-    private $name = "Ana";
+    private $code = "190914023";
+    private $name = "Ariel Pangestu";
     private $course;
     private $task;
     private $quiz;
